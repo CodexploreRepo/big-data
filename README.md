@@ -5,7 +5,11 @@
 
 # 1. Introduction
 ## 1.1. What is Big Data ?
-- The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs.
+- The term “big data” refers to data that is so large, fast or complex that it’s difficult or impossible to process using traditional methods
+- Big data is defined data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the `three Vs`.
+  - **Volume**: Organizations collect data from a variety of sources, including business transactions, smart (IoT) devices, industrial equipment, videos, social media and more. In the past, storing it would have been a problem – but cheaper storage on platforms like data lakes and Hadoop have eased the burden.
+  - **Velocity**: With the growth in the Internet of Things, data streams in to businesses at an unprecedented speed and must be handled in a timely manner. RFID tags, sensors and smart meters are driving the need to deal with these torrents of data in near-real time.
+  - **Variety**: Data comes in all types of formats – from structured, numeric data in traditional databases to unstructured text documents, emails, videos, audios, stock ticker data and financial transactions.
 ## 1.2. The history of big data
 - Around 2005, people began to realize just how much data users generated through Facebook, YouTube, and other online services. 
 - `Apache Hadoop` (an open-source framework created specifically to store and analyze big data sets) was developed that same year
