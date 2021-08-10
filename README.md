@@ -30,6 +30,14 @@
 - **Social media data** stems from interactions on Facebook, YouTube, Instagram, etc. This includes vast amounts of big data in the form of images, videos, voice, text and sound – useful for marketing, sales and support functions. This data is often in `unstructured or semistructured` forms, so it poses a unique challenge for consumption and analysis. 
 - **Publicly available data** comes from massive amounts of open data sources like the US government’s data.gov, the CIA World Factbook or the European Union Open Data Portal. 
 - **Other big data** may come from data lakes, cloud data sources, suppliers and customers.
+### 1.3.3. Access, manage and store big data
+- Some data may be stored `on-premises` in a traditional `data warehouse` 
+- There are also flexible, low-cost options for storing and handling big data via `cloud` solutions, `Data Lakes` and `Hadoop`.
+### 1.3.4. Analyze big data
+- `grid computing` or [`in-memory analytics`](https://www.sas.com/en_us/solutions/in-memory-analytics.html) used to analyse Big Data
+- Build data models with machine learning and artificial intelligence. Put your data to work. (namely, `deep learning` to isolate hidden patterns and to find answers without over-fitting the data)
+### 1.3.5. Make intelligent, data-driven decisions
+- Data-driven organizations perform better, are operationally more predictable and are more profitable.
 
 ## 1.4. Reading
 - [What is Big Data](https://www.oracle.com/sg/big-data/what-is-big-data/)
